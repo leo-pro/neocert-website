@@ -1,0 +1,133 @@
+html, body {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Text Centering Shortcut */
+.horizontal-center{
+  text-align: center;
+}
+.table {
+  display: table;
+}
+.table-row {
+  display: table-row;
+}
+.vertical-center {
+  position: relative;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+/* Navbar */
+#navbar {
+  margin-bottom: 0;
+}
+
+/* Page title */
+.bg {
+  position: absolute; 
+  top: -50%; 
+  left: -50%; 
+  width: 200%; 
+  height: 200%;
+}
+.bg img {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0; 
+  margin: auto; 
+  min-width: 50%;
+  min-height: 50%;
+}
+
+.jumbotron {
+  padding: 9rem 2rem !important;
+}
+
+#page-title {
+  position: relative;
+  width: 100%;
+  color: white;
+  background-color: #1f4a6f;
+  overflow: hidden;
+}
+#title-image {
+  filter:alpha(opacity=80);
+  opacity: 0.8;
+  -moz-opacity:0.8;
+}
+#page-title .container {
+  min-height: 350px;
+  display: table;
+}
+.article-title{
+  font-size: 2.2em;
+}
+#page-title .article-title, #page-title .article-subtitle {
+  text-shadow: 0px 0px 40px black;
+}
+
+/* Article */
+article {
+  font-family: 'roboto';
+  font-size: 1.1em;
+}
+
+.author {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.link-author{
+  text-decoration: none;
+}
+.author-image {
+  width: 40px;
+  height: auto;
+  margin-right: 10px;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%;
+  border: 2px solid #3cfe2a;
+}
+.author-name {
+  font-size: 1.2em;
+  color: #333;
+}
+
+/* Pager */
+
+
+/* Social Button List */
+.social-cont {
+  margin-top: 20px;
+}
+
+/* Image List */
+.image-list {
+  list-style: none;
+  padding-left: 0;
+}
+.image-list li {
+  padding-bottom: 5px;
+  display: table-row;
+}
+.image-list img {
+  width: 40px;
+  height: 40px;
+}
+.image-list .vertical-center {
+  padding-bottom: 6px;
+}
+
+/* Tag List */
+.tag-cont .btn {
+  margin-right: 4px;
+  margin-bottom: 7px;
+  color: #333;
+}
+.tag-cont .btn:hover {
+  background-color: #eee;
+}
