@@ -84,27 +84,34 @@ article {
   margin-top: 15px;
   margin-bottom: 15px;
 }
-
 .link-author{
   text-decoration: none;
-  font-size: 1.2em;
-  color: #b7b7b7;
-  margin-top: 150px;
+  color: #333;
+  font-size: 1em;
+}
+
+.publish-date{
+  font-weight: 200;
+  font-size: 0.8em;
+}
+
+.occupation{
+  font-weight: 200;
+  font-size: 0.8em;
 }
 
 .link-author:hover{
   text-decoration: none;
-  color: #b7b7b7;
+  color: #333;
 }
 
 .author-image {
-  width: 40px;
+  width: 100px;
   height: auto;
   margin-right: 10px;
   -webkit-border-radius: 100%;
   -moz-border-radius: 100%;
   border-radius: 100%;
-  border: 2px solid #3cfe2a;
 }
 .author-name {
   font-size: 1.2em;
