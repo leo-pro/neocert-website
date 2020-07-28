@@ -105,6 +105,12 @@ article {
   color: #333;
 }
 
+.icon-author-profile{
+  color: #333;
+  font-size: 1.4em;
+  margin-top: 10px;
+}
+
 .author-image {
   width: 100px;
   height: auto;
