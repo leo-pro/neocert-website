@@ -44,7 +44,11 @@ html, body {
 }
 
 .jumbotron {
-  padding: 9rem 2rem !important;
+  padding: 15rem 2rem !important;
+  background: url('../img/dia-do-agricultor.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 #page-title {
@@ -80,9 +84,19 @@ article {
   margin-top: 15px;
   margin-bottom: 15px;
 }
+
 .link-author{
   text-decoration: none;
+  font-size: 1.2em;
+  color: #b7b7b7;
+  margin-top: 150px;
 }
+
+.link-author:hover{
+  text-decoration: none;
+  color: #b7b7b7;
+}
+
 .author-image {
   width: 40px;
   height: auto;
