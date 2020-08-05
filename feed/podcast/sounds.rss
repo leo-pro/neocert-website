@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="https://feeds.soundcloud.com/users/soundcloud:users:863236636/sounds.rss" rel="self" type="application/rss+xml"/>
+        
+        <title>NeoExplica</title>
+        <link>https://soundcloud.com/user-642231717</link>
+        <pubDate>Wed, 05 Aug 2020 12:01:04 +0000</pubDate>
+        <lastBuildDate>Wed, 05 Aug 2020 12:01:04 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>pt</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>Podcast by Neocert</description>
+        <itunes:subtitle>Podcast by Neocert</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>NeoExplica</itunes:name>
+          <itunes:email>podcast@neocert.co</itunes:email>
+        </itunes:owner>
+        <itunes:author>Neocert</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://a1.sndcdn.com/images/default_avatar_original.png"/>
+        <image>
+          <url>https://a1.sndcdn.com/images/default_avatar_original.png</url>
+          <title>NeoExplica</title>
+          <link>https://soundcloud.com/user-642231717</link>
+        </image>
+        <itunes:category text="Business"/>
+        
+      </channel>
+    </rss>
